@@ -1,9 +1,6 @@
 # Hi 👋, I'm Jinghe Guo
-
 ### A passion data science student
-
 - 🔭 I'm currently working on **extending my NYC Taxi pipeline with improved orchestration and data quality checks.**
-
 - 💬 Ask me about **data pipelines, Databricks, ETL design, or transitioning into data engineering.**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,12 +10,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="#"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=numpy" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=pandas" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=matplotlib" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=jupyter" width="40"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=anaconda,azure,py" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 </p>
