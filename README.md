@@ -13,5 +13,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,azure,anaconda,numpy,pandas,jupyter&perline=10" />
+<a href="#"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=numpy" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=pandas" width="40"/></a>
 </p>
