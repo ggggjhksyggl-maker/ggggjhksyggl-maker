@@ -15,7 +15,10 @@
 <p align="left">
 <a href="#"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=azure" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=numpy" width="40"/></a>
 <a href="#"><img src="https://skillicons.dev/icons?i=pandas" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=matplotlib" width="40"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=jupyter" width="40"/></a>
+</p>
 </p>
